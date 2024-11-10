@@ -4,8 +4,7 @@ This project demonstrates smooth, interactive animations using the [GSAP (GreenS
 
 ## Demo
 
-![Demo GIF](demo.gif)  
-_A quick demonstration of the animations in this project._
+--https://gsap-project-brown.vercel.app/
 
 ## Features
 
